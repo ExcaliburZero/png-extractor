@@ -1,0 +1,7 @@
+[package]
+name = "png-extractor"
+version = "0.1.0"
+authors = ["Christopher Wells <cwellsny@nycap.rr.com>"]
+edition = "2018"
+
+[dependencies]
